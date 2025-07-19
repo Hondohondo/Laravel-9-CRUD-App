@@ -14,12 +14,10 @@ This is a simple Laravel-based CRUD application built with Laravel 9. It include
 - PHP >= 8.0
 - Composer
 - MySQL
-- Node.js & NPM (optional, for frontend assets)
 
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-laravel-project.git
-cd your-laravel-project
+
